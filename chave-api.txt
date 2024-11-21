@@ -1,0 +1,6 @@
+AIzaSyBMmctwVdcFp_Fqq5JO9XRyb19wQxTTNwA
+
+borges84
+will1984B@
+
+mongodb+srv://borges84:will1984B@@cluster0.vizmy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
