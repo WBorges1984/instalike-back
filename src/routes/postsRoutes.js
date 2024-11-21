@@ -4,7 +4,7 @@ import { listarPosts, postarNovoPost, uploadImagem } from '../controllers/postsC
 
 const storage = multer.diskStorage({
     destination: (req, file, cb)=>{
-        cd(null, 'upload/');
+        cb(null, 'uploads/');
     },
     filename: (req, file, cb)=>{
         cb(null, file.originalname);
