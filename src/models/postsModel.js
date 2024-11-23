@@ -1,4 +1,4 @@
-// import 'dotenv/config';
+import 'dotenv/config';
 import { ObjectId } from "mongodb";
 import conectarAoBanco from "../config/dbConfig.js"
 // Conecta ao banco de dados utilizando a string de conexão fornecida como variável de ambiente
